@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!--
   <distributionManagement>
     <repository>
       <id>nexus</id>
@@ -27,6 +28,7 @@
       <url>http://localhost:8081/repository/new_mvn_snpst/</url>
     </snapshotRepository>
   </distributionManagement>
+-->
   <pluginGroups>
         <pluginGroup>org.sonarsource.scanner.maven</pluginGroup>
     </pluginGroups>
